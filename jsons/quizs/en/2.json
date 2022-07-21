@@ -31,16 +31,6 @@
             "correcta": "1"
         },
         {
-            "question": "Pokémon with the best special attack. *No mega evolutions*",
-            "options": [
-                "Mewtwo",
-                "Dialga",
-                "Reshiram",
-                "Xurkitree"
-            ],
-            "correcta": "3"
-        },
-        {
             "question": "The first shiny in the history of Pokémon was the Red Gyarados from the Lake of Fury in Pokémon Gold and Silver",
             "options": [
                 "True",
@@ -49,6 +39,16 @@
                 "null"
             ],
             "correcta": "0"
+        },
+        {
+            "question": "Pokémon with the best special attack. *No mega evolutions*",
+            "options": [
+                "Mewtwo",
+                "Dialga",
+                "Reshiram",
+                "Xurkitree"
+            ],
+            "correcta": "3"
         }
     ]
 }
