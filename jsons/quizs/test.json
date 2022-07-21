@@ -1,7 +1,7 @@
 {
   "quizlist_1": [
     {
-      "question1": "pregunta 1?",
+      "question": "pregunta 1?",
       "option1": "opcion1",
       "option2": "opcion2",
       "option3": "opcion3",
@@ -9,7 +9,7 @@
       "correcta": "option1"
     },
     {
-      "question2": "pregunta 2?",
+      "question": "pregunta 2?",
       "option1": "opcion1",
       "option2": "opcion2",
       "option3": "opcion3",
@@ -17,7 +17,7 @@
       "correcta": "option2"
     },
     {
-      "question3": "pregunta 3?",
+      "question": "pregunta 3?",
       "option1": "opcion1",
       "option2": "opcion2",
       "option3": "opcion3",
@@ -25,7 +25,7 @@
       "correcta": "option3"
     },
     {
-      "question4": "pregunta 4?",
+      "question": "pregunta 4?",
       "option1": "opcion1",
       "option2": "opcion2",
       "option3": "opcion3",
@@ -33,7 +33,7 @@
       "correcta": "option4"
     },
     {
-      "question5": "pregunta 5?",
+      "question": "pregunta 5?",
       "option1": "opcion1",
       "option2": "opcion2",
       "option3": "opcion3",
