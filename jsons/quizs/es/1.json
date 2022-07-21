@@ -43,10 +43,10 @@
     {
       "question": "¿En cuál generación se introdujo la megavolución?",
       "options": [
-        "Sexta",
-        "Cuarta",
-        "Segunda",
-        "Octava"
+        "VI",
+        "IV",
+        "II",
+        "VIII"
       ],
       "correcta": "0"
     }

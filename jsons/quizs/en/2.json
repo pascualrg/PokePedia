@@ -1,44 +1,54 @@
 {
     "quizlist": [
-      {
-        "question": "¿Cuáles son los Pokémon iniciales en la 2º generación?",
-        "options": [
-          "Charmander, Squirtle y Bulbasaur",
-          "Chikorita, Tepig y Totodile",
-          "Totodile, Chikorita y Cyndaquil",
-          "Popplio, Litten y rowlet"
-        ],
-        "correcta": "2"
-      },
-      {
-        "question": "¿Cuál es el último tipo añadido en pokémon?",
-        "options": [
-          "Hada",
-          "Planta",
-          "Acero",
-          "Hielo"
-        ],
-        "correcta": "0"
-      },
-      {
-        "question": "¿Cuál es el ratio de captura de Arceus?",
-        "options": [
-          "150",
-          "3",
-          "1",
-          "75"
-        ],
-        "correcta": "1"
-      },
-      {
-        "question": "Pokémon con mejor ataque especial. *Sin megaevoluciones*",
-        "options": [
-          "Mewtwo",
-          "Dialga",
-          "Reshiram",
-          "Xurkitree"
-        ],
-        "correcta": "3"
-      }
+        {
+            "question": "What are the starter Pokémon in the 2nd generation?",
+            "options": [
+                "Charmander, Squirtle y Bulbasaur",
+                "Chikorita, Tepig y Totodile",
+                "Totodile, Chikorita y Cyndaquil",
+                "Popplio, Litten y rowlet"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What is the last type added in pokémon?",
+            "options": [
+                "Fairy",
+                "Grass",
+                "Steel",
+                "Ice"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What is the capture rate of Arceus?",
+            "options": [
+                "150",
+                "3",
+                "1",
+                "75"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Pokémon with the best special attack. *No mega evolutions*",
+            "options": [
+                "Mewtwo",
+                "Dialga",
+                "Reshiram",
+                "Xurkitree"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "The first shiny in the history of Pokémon was the Red Gyarados from the Lake of Fury in Pokémon Gold and Silver",
+            "options": [
+                "True",
+                "False",
+                "null",
+                "null"
+            ],
+            "correcta": "0"
+        }
     ]
-  }
+}

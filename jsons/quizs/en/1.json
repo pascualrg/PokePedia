@@ -1,7 +1,7 @@
 {
   "quizlist": [
     {
-      "question": "¿Cuántos Pokémon hay en la región Kanto?",
+      "question": "How many Pokémon are there in the Kanto region?",
       "options": [
         "150",
         "200",
@@ -11,17 +11,17 @@
       "correcta": "2"
     },
     {
-      "question": "¿Contra qué tipos es fuerte el tipo Eléctrico?",
+      "question": "What types is the Electric type strong against?",
       "options": [
-        "Siniestro - Psíquico",
-        "Planta",
-        "Acero",
-        "Agua - Volador"
+        "Dark - Psychic",
+        "Grass",
+        "Steel",
+        "Water - Fly"
       ],
       "correcta": "3"
     },
     {
-      "question": "¿Cómo se llama la evolución tipo hada de Eevee?",
+      "question": "What is the name of Eevee's fairy-like evolution?",
       "options": [
         "Glaceon",
         "Leafeon",
@@ -31,14 +31,24 @@
       "correcta": "2"
     },
     {
-      "question": "¿De qué tipo es Sceptile cuando megaevoluciona?",
+      "question": "What type is Sceptile when it mega evolves?",
       "options": [
-        "Planta - Acero",
-        "Planta",
-        "Agua",
-        "Planta - Dragón"
+        "Grass - Steel",
+        "Grass",
+        "Water",
+        "Grass - Dragon"
       ],
       "correcta": "3"
+    },
+    {
+      "question": "In which generation was the megavolution introduced?",
+      "options": [
+        "VI",
+        "IV",
+        "II",
+        "VIII"
+      ],
+      "correcta": "0"
     }
   ]
 }
