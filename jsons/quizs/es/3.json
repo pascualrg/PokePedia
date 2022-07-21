@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "¿Cuál de estos Pokémon es de tipo lucha?",
+            "options": [
+                "Machamp",
+                "Audino",
+                "Vileplume",
+                "Hoopa"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Las noches de luna llena, a este Pokémon le gusta imitar las sombras de la gente y burlarse de sus miedos.'",
+            "options": [
+                "Spiritbomb",
+                "Lapras",
+                "Gengar",
+                "Eternatus"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Qué Pokémon es más pesado?",
+            "options": [
+                "Lycanroc",
+                "Yamask",
+                "Drifblim",
+                "Natu"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Cuál de estos Pokémon es de tipo eléctrico?",
+            "options": [
+                "Crabrawler",
+                "Lickitung",
+                "Nosepass",
+                "Mareep"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Región en la que se estrenó la tercera generación.",
+            "options": [
+                "Kalos",
+                "Hoenn",
+                "Johto",
+                "Sinnoh"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

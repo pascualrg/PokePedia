@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Which of these Pokémon is a Fighting-type?",
+            "options": [
+                "Machamp",
+                "Audino",
+                "Vileplume",
+                "Hoopa"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What Pokémon does this description belong to? 'On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.'",
+            "options": [
+                "Spiritbomb",
+                "Lapras",
+                "Gengar",
+                "Eternatus"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which Pokémon is heavier?",
+            "options": [
+                "Lycanroc",
+                "Yamask",
+                "Drifblim",
+                "Natu"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which of these Pokemon is Electric-type?",
+            "options": [
+                "Crabrawler",
+                "Lickitung",
+                "Nosepass",
+                "Mareep"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Region in which the third generation was released",
+            "options": [
+                "Kalos",
+                "Hoenn",
+                "Johto",
+                "Quesa"
+            ],
+            "correcta": "1"
+        }
+    ]
+}
