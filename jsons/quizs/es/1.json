@@ -39,6 +39,16 @@
         "Planta - Dragón"
       ],
       "correcta": "3"
+    },
+    {
+      "question": "¿En cuál generación se introdujo la megavolución?",
+      "options": [
+        "Sexta",
+        "Cuarta",
+        "Segunda",
+        "Octava"
+      ],
+      "correcta": "0"
     }
   ]
 }
