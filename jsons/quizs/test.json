@@ -3,48 +3,40 @@
     {
       "question": "pregunta 1?",
       "options": [
-        {
-          "option1": "opcion1",
-          "option2": "opcion2",
-          "option3": "opcion3",
-          "option4": "opcion4"
-        }
+        "opcion1",
+        "opcion2",
+        "opcion3",
+        "opcion4"
       ],
       "correcta": "0"
     },
     {
       "question": "pregunta 2?",
       "options": [
-        {
-          "option1": "opcion1",
-          "option2": "opcion2",
-          "option3": "opcion3",
-          "option4": "opcion4"
-        }
+        "opcion1",
+        "opcion2",
+        "opcion3",
+        "opcion4"
       ],
       "correcta": "1"
     },
     {
       "question": "pregunta 3?",
       "options": [
-        {
-          "option1": "opcion1",
-          "option2": "opcion2",
-          "option3": "opcion3",
-          "option4": "opcion4"
-        }
+        "opcion1",
+        "opcion2",
+        "opcion3",
+        "opcion4"
       ],
       "correcta": "2"
     },
     {
       "question": "pregunta 4?",
       "options": [
-        {
-          "option1": "opcion1",
-          "option2": "opcion2",
-          "option3": "opcion3",
-          "option4": "opcion4"
-        }
+        "opcion1",
+        "opcion2",
+        "opcion3",
+        "opcion4"
       ],
       "correcta": "3"
     }
