@@ -2,43 +2,51 @@
   "quizlist_1": [
     {
       "question": "pregunta 1?",
-      "option1": "opcion1",
-      "option2": "opcion2",
-      "option3": "opcion3",
-      "option4": "opcion4",
-      "correcta": "option1"
+      "options": [
+        {
+          "option1": "opcion1",
+          "option2": "opcion2",
+          "option3": "opcion3",
+          "option4": "opcion4"
+        }
+      ],
+      "correcta": "0"
     },
     {
       "question": "pregunta 2?",
-      "option1": "opcion1",
-      "option2": "opcion2",
-      "option3": "opcion3",
-      "option4": "opcion4",
-      "correcta": "option2"
+      "options": [
+        {
+          "option1": "opcion1",
+          "option2": "opcion2",
+          "option3": "opcion3",
+          "option4": "opcion4"
+        }
+      ],
+      "correcta": "1"
     },
     {
       "question": "pregunta 3?",
-      "option1": "opcion1",
-      "option2": "opcion2",
-      "option3": "opcion3",
-      "option4": "opcion4",
-      "correcta": "option3"
+      "options": [
+        {
+          "option1": "opcion1",
+          "option2": "opcion2",
+          "option3": "opcion3",
+          "option4": "opcion4"
+        }
+      ],
+      "correcta": "2"
     },
     {
       "question": "pregunta 4?",
-      "option1": "opcion1",
-      "option2": "opcion2",
-      "option3": "opcion3",
-      "option4": "opcion4",
-      "correcta": "option4"
-    },
-    {
-      "question": "pregunta 5?",
-      "option1": "opcion1",
-      "option2": "opcion2",
-      "option3": "opcion3",
-      "option4": "opcion4",
-      "correcta": "option5"
+      "options": [
+        {
+          "option1": "opcion1",
+          "option2": "opcion2",
+          "option3": "opcion3",
+          "option4": "opcion4"
+        }
+      ],
+      "correcta": "3"
     }
   ]
 }
