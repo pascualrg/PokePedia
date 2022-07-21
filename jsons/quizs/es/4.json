@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "¿Cuál de estos Pokémon es de tipo Dragón - Tierra?",
+            "options": [
+                "Zekrom",
+                "Palossand",
+                "Gabite",
+                "Steelix"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿A qué tipo es inmune el tipo Normal?",
+            "options": [
+                "Agua",
+                "Eléctrico",
+                "Lucha",
+                "Fantasma"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Congela su aliento y crea colmillos de hielo más duros que el acero. Nada en mares de aguas frías en busca de alimento.'",
+            "options": [
+                "Mr. Rime",
+                "Beartic",
+                "Articuno",
+                "Piloswine"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuál de estos Pokémon es el más alto?",
+            "options": [
+                "Kakuna",
+                "Vulpix",
+                "Paras",
+                "Zubat"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Cuáles son los Pokémon iniciales en la 5º generación?",
+            "options": [
+                "Snivy, Tepig y Oshawott",
+                "Chikorita, Tepig y Totodile",
+                "Totodile, Chikorita y Cyndaquil",
+                "Popplio, Litten y Rowlet"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "quizlist": [
         {
-            "question": "¿Cuál de estos Pokémon es de tipo lucha?",
+            "question": "¿Cuál de estos Pokémon es de tipo Lucha?",
             "options": [
                 "Machamp",
                 "Audino",
@@ -31,7 +31,7 @@
             "correcta": "0"
         },
         {
-            "question": "¿Cuál de estos Pokémon es de tipo eléctrico?",
+            "question": "¿Cuál de estos Pokémon es de tipo Eléctrico?",
             "options": [
                 "Crabrawler",
                 "Lickitung",

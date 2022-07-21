@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Which of these Pokémon is a Dragon-Ground type?",
+            "options": [
+                "Zekrom",
+                "Palossand",
+                "Gabite",
+                "Steelix"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What type is the normal type immune to?",
+            "options": [
+                "Water",
+                "Electric",
+                "Fight",
+                "Ghost"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What Pokémon does this description belong to?  'It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.'",
+            "options": [
+                "Mr. Rime",
+                "Beartic",
+                "Articuno",
+                "Piloswine"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which of these Pokémon is the tallest?",
+            "options": [
+                "Kakuna",
+                "Vulpix",
+                "Paras",
+                "Zubat"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What are the starter Pokémon in the 5th generation?",
+            "options": [
+                "Snivy, Tepig y Oshawott",
+                "Chikorita, Tepig y Totodile",
+                "Totodile, Chikorita y Cyndaquil",
+                "Popplio, Litten y Rowlet"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

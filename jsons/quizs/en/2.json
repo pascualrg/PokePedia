@@ -3,10 +3,10 @@
         {
             "question": "What are the starter Pokémon in the 2nd generation?",
             "options": [
-                "Charmander, Squirtle y Bulbasaur",
-                "Chikorita, Tepig y Totodile",
-                "Totodile, Chikorita y Cyndaquil",
-                "Popplio, Litten y rowlet"
+                "Charmander, Squirtle and Bulbasaur",
+                "Chikorita, Tepig and Totodile",
+                "Totodile, Chikorita and Cyndaquil",
+                "Popplio, Litten and Rowlet"
             ],
             "correcta": "2"
         },
