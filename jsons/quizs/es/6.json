@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "¿Pokémon con más PS? *Sin megaevoluciones*",
+            "options": [
+                "Chansey",
+                "Mewtwo",
+                "Regidrago",
+                "Blissey"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Su larga cola le sirve como toma de tierra para protegerse a sí mismo del alto voltaje que genera su cuerpo.'",
+            "options": [
+                "Pikachu",
+                "Geodude",
+                "Raichu",
+                "Jolteon"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿En qué generación se introdujo la cría Pokémon?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuáles son los Pokémon iniciales en la 8º generación?",
+            "options": [
+                "Charmander, Squirtle y Bulbasaur",
+                "Chikorita, Tepig y Totodile",
+                "Totodile, Chikorita y Cyndaquil",
+                "Grookey, Scorbunny y Sobble"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Región en la que se estrenó la primera generación.",
+            "options": [
+                "Kalos",
+                "Kanto",
+                "Johto",
+                "Sinnoh"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

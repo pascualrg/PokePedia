@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "In which generation were double battles introduced?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Fastest pokemon *No mega evolutions*",
+            "options": [
+                "Electrode",
+                "Ninjask",
+                "Regieleki",
+                "Rapidash"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What types is the Alolan version of Sandslash?",
+            "options": [
+                "Grass - Steel",
+                "Ice - Steel",
+                "Water - Electric",
+                "Ice - Fighting "
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which of these Pokémon is the heaviest?",
+            "options": [
+                "Regigigas",
+                "Gyarados",
+                "Snorlax",
+                "Cosmoem"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Evolution of Evee that uses the Thunder Stone to evolve.",
+            "options": [
+                "Jolteon",
+                "Flareon",
+                "Mushroom",
+                "Vaporeon"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

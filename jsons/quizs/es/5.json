@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "¿En qué generación se introdujeron los combates dobles?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Pokémon más veloz. *Sin megaevoluciones*",
+            "options": [
+                "Electrode",
+                "Ninjask",
+                "Regieleki",
+                "Rapidash"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿De qué tipos es la versión Alola de Sandslash?",
+            "options": [
+                "Planta - Acero",
+                "Hielo - Acero",
+                "Agua - Eléctrico",
+                "Hielo - Lucha"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuál de estos Pokémon es el más pesado?",
+            "options": [
+                "Regigigas",
+                "Gyarados",
+                "Snorlax",
+                "Cosmoem"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Evolución de Evee que utiliza la Piedra Trueno para evolucionar.",
+            "options": [
+                "Jolteon",
+                "Flareon",
+                "Mushroom",
+                "Vaporeon"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

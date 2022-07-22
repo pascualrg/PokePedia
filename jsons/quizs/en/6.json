@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Pokémon with more HP? *No mega evolutions*",
+            "options": [
+                "Chansey",
+                "Mewtwo",
+                "Regidrago",
+                "Blissey"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What Pokémon does this description belong to? 'Its long tail serves as a ground to protect itself from its own high-voltage power.'",
+            "options": [
+                "Pikachu",
+                "Geodude",
+                "Raichu",
+                "Jolteon"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "In which generation were Baby Pokémon introduced?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which is the starter Pokémon in the 2th generation?",
+            "options": [
+                "Charmander, Squirtle y Bulbasaur",
+                "Chikorita, Tepig y Totodile",
+                "Totodile, Chikorita y Cyndaquil",
+                "Grookey, Scorbunny y Sobble"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Region in which the first generation was released",
+            "options": [
+                "Kalos",
+                "Kanto",
+                "Johto",
+                "Sinnoh"
+            ],
+            "correcta": "1"
+        }
+    ]
+}
