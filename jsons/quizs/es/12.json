@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Gyarados tiene debilidad x4 al tipo...",
+            "options": [
+                "Planta",
+                "Eléctrico",
+                "Acero",
+                "Lucha"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuaál de estos pokémon es más alto?",
+            "options": [
+                "Golduck",
+                "Rampardos",
+                "Ursaring",
+                "Greeninja"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Tipo con más resistencias al resto de tipos",
+            "options": [
+                "Acero",
+                "Fuego",
+                "Hada",
+                "Planta"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Aparece en ríos al anochecer. Puede usar poderes telequinéticos si su frente brilla misteriosamente.'",
+            "options": [
+                "Tirtouga",
+                "Manaphy",
+                "Suicune",
+                "Golduck"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Evolución de Eevee tipo Fuego.",
+            "options": [
+                "Flareon",
+                "Umbreon",
+                "Espeon",
+                "Leafon"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

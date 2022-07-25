@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "¿En qué consola se estrenó la 4º generación?",
+            "options": [
+                "Nintendo 64",
+                "Game Boy",
+                "Nintendo DS",
+                "Wii U"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Cuáles son los Pokémon iniciales en la 1º generación?",
+            "options": [
+                "Charmander, Squirtle y Chikorita",
+                "Totodile, Chikorita y Cyndaquil",
+                "Bulbasaur, Squirtle y Charmander",
+                "Grookey, Scorbunny y Sobble"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "El tipo Acero es inmune al tipo...",
+            "options": [
+                "Veneno",
+                "Fuego",
+                "Eléctrico",
+                "Volador"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿En qué generación se introdujeron las habilidades?",
+            "options": [
+                "I",
+                "III",
+                "IV",
+                "II"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Pokémon con mejor Ataque. *Sin megaevoluciones*",
+            "options": [
+                "Slaking",
+                "Rampardos",
+                "Regigigas",
+                "Kartana"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

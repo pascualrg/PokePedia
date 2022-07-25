@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Gyarados has a x4 weakness to the type...",
+            "options": [
+                "Grass",
+                "Electric",
+                "Steel",
+                "Fighting"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which of these pokemon is taller?",
+            "options": [
+                "Golduck",
+                "Rampardos",
+                "Ursaring",
+                "Greeninja"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Type with more resistances than other types.",
+            "options": [
+                "Steel",
+                "Fire",
+                "Fairy",
+                "Grass"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What Pokémon does this description belong to? 'Often seen swim ming elegantly by lakes shores. It is often mistaken for the Japanese monster, Kappa.'",
+            "options": [
+                "Tirtouga",
+                "Manaphy",
+                "Suicune",
+                "Golduck"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Fire type Eevee evolution.",
+            "options": [
+                "Flareon",
+                "Umbreon",
+                "Espeon",
+                "Leafon"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "In which console was the 4th generation released on?",
+            "options": [
+                "Nintendo 64",
+                "Game Boy",
+                "Nintendo DS",
+                "Wii U"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What are the starter Pokémon in the 1st generation?",
+            "options": [
+                "Charmander, Squirtle y Chikorita",
+                "Totodile, Chikorita y Cyndaquil",
+                "Bulbasaur, Squirtle y Charmander",
+                "Grookey, Scorbunny y Sobble"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Steel type is immune to...",
+            "options": [
+                "Poison",
+                "Fire",
+                "Electric",
+                "Flying"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "In which generation were the Abilities introduced?",
+            "options": [
+                "I",
+                "III",
+                "IV",
+                "II"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Pokémon with the best Attack. *No mega evolutions*",
+            "options": [
+                "Slaking",
+                "Rampardos",
+                "Regigigas",
+                "Kartana"
+            ],
+            "correcta": "3"
+        }
+    ]
+}
