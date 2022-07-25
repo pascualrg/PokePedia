@@ -33,10 +33,10 @@
         {
             "question": "Which is the starter Pokémon in the 8th generation?",
             "options": [
-                "Charmander, Squirtle y Bulbasaur",
-                "Chikorita, Tepig y Totodile",
-                "Totodile, Chikorita y Cyndaquil",
-                "Grookey, Scorbunny y Sobble"
+                "Charmander, Squirtle and Bulbasaur",
+                "Chikorita, Tepig and Totodile",
+                "Totodile, Chikorita and Cyndaquil",
+                "Grookey, Scorbunny and Sobble"
             ],
             "correcta": "3"
         },

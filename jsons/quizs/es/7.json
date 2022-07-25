@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Evolución de Eevee tipo Psíquico.",
+            "options": [
+                "Milotic",
+                "Umbreon",
+                "Espeon",
+                "Leafon"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿En qué generación se apareciío por primera vez el Recuerda-Movimientos?",
+            "options": [
+                "III",
+                "IV",
+                "II",
+                "V"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Cuaál de estos pokémon es más pesado?'",
+            "options": [
+                "Snorunt",
+                "Machop",
+                "Abra",
+                "Gardevoir"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? '¡Huele bastante mal! De todas formas, una de cada mil personas aprecian su fétido olor.'",
+            "options": [
+                "Grimer",
+                "Gloom",
+                "Makario",
+                "Weezing"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿A qué tipo es inmune el tipo Volador?",
+            "options": [
+                "Lucha",
+                "Eléctrico",
+                "Tierra",
+                "Fantasma"
+            ],
+            "correcta": "2"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Evolution of Psychic type Eevee.",
+            "options": [
+                "Milotic",
+                "Umbreon",
+                "Espeon",
+                "Leafon"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "In which generation did the Move-Remember first appear?",
+            "options": [
+                "III",
+                "IV",
+                "II",
+                "V"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which of these Pokémon is heavier?'",
+            "options": [
+                "Snorunt",
+                "Machop",
+                "Abra",
+                "Gardevoir"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What Pokémon does this description belong to? 'The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.'",
+            "options": [
+                "Grimer",
+                "Gloom",
+                "Makario",
+                "Weezing"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What type is the Flying type immune to?",
+            "options": [
+                "Fighting ",
+                "Electric",
+                "Ground",
+                "Ghost"
+            ],
+            "correcta": "2"
+        }
+    ]
+}
