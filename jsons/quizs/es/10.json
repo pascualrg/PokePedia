@@ -1,0 +1,55 @@
+{
+    "quizlist": [
+        {
+            "question": "¿De qué tipos es la versión Alola de Exeggutor?",
+            "options": [
+                "Planta - Acero",
+                "Hielo - Siniestro",
+                "Planta - Eléctrico",
+                "Planta - Dragón"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿En qué tipo se especializa el primer lider de gimnasio de primera generación Brock?",
+            "options": [
+                "Tierra",
+                "Planta",
+                "Roca",
+                "Fuego"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Crece y muda continuamente. La parte superior de su cabeza es muy apreciada por su belleza.'",
+            "options": [
+                "Milotic",
+                "Corsola",
+                "Tauros",
+                "Ekans"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Evolución de Eevee que utiliza la Piedra Fuego para evolucionar.",
+            "options": [
+                "Jolteon",
+                "Flareon",
+                "Mushroom",
+                "Vaporeon"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuántos pokémon se añadieron en la 3º generación?",
+            "options": [
+                "210",
+                "68",
+                "135",
+                "95"
+            ],
+            "correcta": "2"
+        }
+        
+    ]
+}
