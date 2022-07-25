@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "In which generation was weather introduced?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Pokémon with less HP. *No mega evolutions*",
+            "options": [
+                "Shuckle",
+                "Ninjask",
+                "Diglett",
+                "Shedinja"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What type is the Alola version of Persian?",
+            "options": [
+                "Water",
+                "Ice",
+                "Dark",
+                "Fighting"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which of these Pokémon is the tallest?",
+            "options": [
+                "Abomasnow",
+                "Gyarados",
+                "Palkia",
+                "Dialga"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What are the starter Pokémon in the 7th generation?",
+            "options": [
+                "Rowlet, Litten and Popplio",
+                "Rowlet, Scorbunny and Sobble",
+                "Charmander, Charmeleon and Charizard",
+                "Grookey, Scorbunny and Sobble"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

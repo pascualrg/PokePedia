@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "¿En qué generación se introdujo el clima?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Pokémon con menos PS. *Sin megaevoluciones*",
+            "options": [
+                "Shuckle",
+                "Ninjask",
+                "Diglett",
+                "Shedinja"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿De qué tipo es la versión Alola de Persian?",
+            "options": [
+                "Agua",
+                "Hielo",
+                "Siniestro",
+                "Lucha"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Cuál de estos Pokémon es el más alto?",
+            "options": [
+                "Abomasnow",
+                "Gyarados",
+                "Palkia",
+                "Dialga"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuáles son los Pokémon iniciales en la 7º generación?",
+            "options": [
+                "Rowlet, Litten y Popplio",
+                "Rowlet, Scorbunny y Sobble",
+                "Charmander, Charmeleon y Charizard",
+                "Grookey, Scorbunny y Sobble"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

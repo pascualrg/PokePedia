@@ -1,0 +1,54 @@
+{
+    "quizlist": [
+        {
+            "question": "Which one has better Attack?",
+            "options": [
+                "Mewtwo",
+                "Kingler",
+                "null",
+                "null"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Purchase price of an Ultraball",
+            "options": [
+                "1000",
+                "1600",
+                "1800",
+                "1200"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What is Eevee's catch rate?",
+            "options": [
+                "45",
+                "200",
+                "15",
+                "75"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which of these Pokémon is a Steel - Psychic type?",
+            "options": [
+                "Cobalion",
+                "Kirlia",
+                "Metang",
+                "Togedemaru"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Pokémon with better special defense. *No mega evolutions*",
+            "options": [
+                "Mewtwo",
+                "Shuckle",
+                "Regice",
+                "Lugia"
+            ],
+            "correcta": "1"
+        }
+    ]
+}
