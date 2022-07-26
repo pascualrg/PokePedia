@@ -1,6 +1,5 @@
 {
-    "quizlist": [
-        {
+    "quizlist": [{
             "question": "Gyarados tiene debilidad x4 al tipo...",
             "options": [
                 "Planta",
@@ -11,7 +10,7 @@
             "correcta": "1"
         },
         {
-            "question": "¿Cuaál de estos pokémon es más alto?",
+            "question": "¿Cuál de estos pokémon es más alto?",
             "options": [
                 "Golduck",
                 "Rampardos",

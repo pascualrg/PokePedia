@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Year in which the first game of the saga was released in Japan.",
+            "options": [
+                "1986",
+                "2001",
+                "1997",
+                "1990"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What types is the Alolan version of Geodude?",
+            "options": [
+                "Rock - Electric",
+                "Rock - Fire",
+                "Grass - Electric",
+                "Ice - Dark"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "In which generation was the Heal Ball pokeball introduced?",
+            "options": [
+                "VI",
+                "II",
+                "IV",
+                "III"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which of these pokemon is heavier?",
+            "options": [
+                "Blastoise",
+                "Venusaur",
+                "Charizard",
+                "Nidoking"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Region in which the eighth generation was released.",
+            "options": [
+                "Kalos",
+                "Kanto",
+                "Johto",
+                "Galar"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

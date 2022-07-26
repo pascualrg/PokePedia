@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Año en el que se estrenó en Japón el primer juego de la saga.",
+            "options": [
+                "1986",
+                "2001",
+                "1997",
+                "1990"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿De qué tipos es la versión Alola de Geodude?",
+            "options": [
+                "Roca - Eléctrico",
+                "Roca - Fuego",
+                "Planta - Eléctrico",
+                "Hielo - Siniestro"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿En qué generación se introdujo la pokeball Sana Ball?",
+            "options": [
+                "VI",
+                "II",
+                "IV",
+                "III"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Cuál de estos pokémon es más pesado?",
+            "options": [
+                "Blastoise",
+                "Venusaur",
+                "Charizard",
+                "Nidoking"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Región en la que se estrenó la octava generación.",
+            "options": [
+                "Kalos",
+                "Kanto",
+                "Johto",
+                "Galar"
+            ],
+            "correcta": "3"
+        }
+    ]
+}
