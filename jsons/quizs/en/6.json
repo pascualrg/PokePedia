@@ -1,7 +1,7 @@
 {
     "quizlist": [
         {
-            "question": "Pokémon with more HP? *No mega evolutions*",
+            "question": "Pokémon with more HP. *No mega evolutions*",
             "options": [
                 "Chansey",
                 "Mewtwo",
@@ -31,7 +31,7 @@
             "correcta": "1"
         },
         {
-            "question": "Which is the starter Pokémon in the 8th generation?",
+            "question": "Which are the starters Pokémon in the 8th generation?",
             "options": [
                 "Charmander, Squirtle and Bulbasaur",
                 "Chikorita, Tepig and Totodile",
@@ -41,7 +41,7 @@
             "correcta": "3"
         },
         {
-            "question": "Region in which the first generation was released",
+            "question": "Region in which the first generation was released.",
             "options": [
                 "Kalos",
                 "Kanto",
