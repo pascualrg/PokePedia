@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Cuál de estos pokémon es más alto?",
+            "options": [
+                "Espeon",
+                "Jolteon",
+                "Flareon",
+                "Umbreon"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "A partir de la cuarta generación el Pokémon resultante de un huevo nace en el nivel 5.",
+            "options": [
+                "Verdadero",
+                "Falso",
+                "null",
+                "null"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿De qué tipo es la versión Alola de Grimer?",
+            "options": [
+                "Veneno - Hielo",
+                "Fuego - Hada",
+                "Veneno - Hada",
+                "Veneno - Siniestro"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Región en la que se estrenó la quinta generación.",
+            "options": [
+                "Teselia",
+                "Kalos",
+                "Johto",
+                "Galar"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Ratio de captura de Eternatus.",
+            "options": [
+                "1",
+                "20",
+                "255",
+                "3"
+            ],
+            "correcta": "2"
+        }
+    ]
+}

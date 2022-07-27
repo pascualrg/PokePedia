@@ -1,0 +1,54 @@
+{
+    "quizlist": [{
+            "question": "What are the starter Pokémon in the 3rd generation?",
+            "options": [
+                "Charmander, Squirtle and Chikorita",
+                "Totodile, Chikorita and Cyndaquil",
+                "Bulbasaur, Squirtle and Charmander",
+                "Treecko, Torchic and Mudkip"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What type does the fourth second generation gym leader Morti specialize in?",
+            "options": [
+                "Bug",
+                "Ghost",
+                "Rock",
+                "Fire"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Evolution of Eevee that uses the Water Stone to evolve.",
+            "options": [
+                "Jolteon",
+                "Flareon",
+                "Mushroom",
+                "Vaporeon"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What type is the Dark type immune to?",
+            "options": [
+                "Fighting",
+                "Psychic",
+                "Bug",
+                "Ghost"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "How many pokémon were added in the 4th generation?",
+            "options": [
+                "107",
+                "73",
+                "135",
+                "95"
+            ],
+            "correcta": "0"
+        }
+
+    ]
+}

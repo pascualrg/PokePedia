@@ -1,0 +1,54 @@
+{
+    "quizlist": [{
+            "question": "¿Cuáles son los Pokémon iniciales en la 3º generación?",
+            "options": [
+                "Charmander, Squirtle y Chikorita",
+                "Totodile, Chikorita y Cyndaquil",
+                "Bulbasaur, Squirtle y Charmander",
+                "Treecko, Torchic y Mudkip"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿En qué tipo se especializa el cuarto lider de gimnasio de segunda generación Morti?",
+            "options": [
+                "Bicho",
+                "Fantasma",
+                "Roca",
+                "Fuego"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Evolución de Eevee que utiliza la Piedra Agua para evolucionar.",
+            "options": [
+                "Jolteon",
+                "Flareon",
+                "Mushroom",
+                "Vaporeon"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿A qué tipo es inmune el tipo Siniestro?",
+            "options": [
+                "Lucha",
+                "Psíquico",
+                "Bicho",
+                "Fantasma"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuántos pokémon se añadieron en la 4º generación?",
+            "options": [
+                "107",
+                "73",
+                "135",
+                "95"
+            ],
+            "correcta": "0"
+        }
+
+    ]
+}
