@@ -1,6 +1,5 @@
 {
-    "quizlist": [
-        {
+    "quizlist": [{
             "question": "In which generation were double battles introduced?",
             "options": [
                 "IV",
@@ -21,7 +20,7 @@
             "correcta": "2"
         },
         {
-            "question": "What types is the Alolan version of Sandslash?",
+            "question": "What types is the Alola version of Sandslash?",
             "options": [
                 "Grass - Steel",
                 "Ice - Steel",
