@@ -1,0 +1,52 @@
+{
+    "quizlist": [{
+            "question": "What console was the 8th generation released on?",
+            "options": [
+                "Nintendo Switch",
+                "Nintendo 3DS",
+                "Nintendo DS",
+                "Wii U"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which of these pokemon is heavier?",
+            "options": [
+                "Weedle",
+                "Caterpie",
+                "Wurmple",
+                "Budew"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which game has sold the most copies among these 4.",
+            "options": [
+                "Pokémon Sun & Moon",
+                "Pokémon Diamond & Pearl",
+                "Pokémon Gold & Silver",
+                "Pokémon Sword & Shield"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "How many pokémon were added in the 7th generation?",
+            "options": [
+                "88",
+                "73",
+                "115",
+                "101"
+            ],
+            "correcta": "0"
+        }, {
+            "question": "What is Pikachu's catch rate?",
+            "options": [
+                "45",
+                "190",
+                "85",
+                "105"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

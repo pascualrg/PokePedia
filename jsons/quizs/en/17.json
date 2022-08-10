@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "In which generation was Nature introduced?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Level in which Zubat evolves",
+            "options": [
+                "10",
+                "36",
+                "22",
+                "16"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What type is the Galar version of Corsola?",
+            "options": [
+                "Ghost",
+                "Dark",
+                "Dark - Flying",
+                "Rock - Grass"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What Pokémon does this description belong to? 'Loves to build its muscles. It trains in all styles of martials arts to become even stronger.'",
+            "options": [
+                "Geodude",
+                "Machop",
+                "Hitmonchan",
+                "Bewear"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What are the starter Pokémon in the 9th generation?",
+            "options": [
+                "Sprigatito, Fuecoco y Litten",
+                "Chikorita, Tepig y Totodile",
+                "Sprigatito, Fuecoco y Quaxly",
+                "Popplio, Litten y Rowlet"
+            ],
+            "correcta": "2"
+        }
+    ]
+}

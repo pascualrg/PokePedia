@@ -1,0 +1,52 @@
+{
+    "quizlist": [{
+            "question": "¿En qué consola se estrenó la 8º generación?",
+            "options": [
+                "Nintendo Switch",
+                "Nintendo 3DS",
+                "Nintendo DS",
+                "Wii U"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Cuál de estos pokémon es más pesado?",
+            "options": [
+                "Weedle",
+                "Caterpie",
+                "Wurmple",
+                "Budew"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Qué juego ha vendido más copias entre estos 4.",
+            "options": [
+                "Pokémon Sol y Luna",
+                "Pokémon Diamante y Perla",
+                "Pokémon Oro y Plata",
+                "Pokémon Espada y Escudo"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Cuántos pokémon se añadieron en la 7º generación?",
+            "options": [
+                "88",
+                "73",
+                "115",
+                "101"
+            ],
+            "correcta": "0"
+        }, {
+            "question": "¿Cuál es el ratio de captura de Pikachu?",
+            "options": [
+                "45",
+                "190",
+                "85",
+                "105"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿En qué generación se introdujo la Naturaleza?",
+            "options": [
+                "IV",
+                "II",
+                "V",
+                "III"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Nivel en el que evoluciona Zubat.",
+            "options": [
+                "10",
+                "36",
+                "22",
+                "16"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿De qué tipo es la versión Galar de Corsola?",
+            "options": [
+                "Fantasma",
+                "Siniestro",
+                "Siniestro - Volador",
+                "Roca - Planta"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Levanta un Graveler para mantener sus músculos en forma. Domina todas las artes marciales.'",
+            "options": [
+                "Geodude",
+                "Machop",
+                "Hitmonchan",
+                "Bewear"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuáles son los Pokémon iniciales en la 9º generación?",
+            "options": [
+                "Sprigatito, Fuecoco y Litten",
+                "Chikorita, Tepig y Totodile",
+                "Sprigatito, Fuecoco y Quaxly",
+                "Popplio, Litten y Rowlet"
+            ],
+            "correcta": "2"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Cuál de estos Pokémon es de tipo Tierra - Dragón?",
+            "options": [
+                "Crabrawler",
+                "Vibrava",
+                "Salamence",
+                "Haxorus"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿En qué tipo se especializa el segundo lider de gimnasio de primera generación Misty?",
+            "options": [
+                "Tierra",
+                "Planta",
+                "Roca",
+                "Agua"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Evolución de Eevee tipo Siniestro.",
+            "options": [
+                "Flareon",
+                "Umbreon",
+                "Espeon",
+                "Leafon"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿De qué tipo es Gyarados cuando megaevoluciona?",
+            "options": [
+                "Agua - Siniestro",
+                "Agua - Volador",
+                "Agua - Bicho",
+                "Agua - Lucha"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Cuál de estos pokémon es más rápido?",
+            "options": [
+                "Sealeo",
+                "Squirtle",
+                "Clefairy",
+                "Lotad"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

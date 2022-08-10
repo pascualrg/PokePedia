@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which of these Pokémon is a Ground-Dragon type?",
+            "options": [
+                "Crabrawler",
+                "Vibrava",
+                "Salamence",
+                "Haxorus"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What type does the second first generation Gym Leader Misty specialize in?",
+            "options": [
+                "Ground",
+                "Grass",
+                "Rock",
+                "Water"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Evolution of Eevee of Dark type.",
+            "options": [
+                "Flareon",
+                "Umbreon",
+                "Espeon",
+                "Leafon"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What type is Gyarados when he mega evolves?",
+            "options": [
+                "Water - Dark",
+                "Water - Flying",
+                "Water - Bug",
+                "Water - Fighting"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which of these pokemon is faster?",
+            "options": [
+                "Sealeo",
+                "Squirtle",
+                "Clefairy",
+                "Lotad"
+            ],
+            "correcta": "0"
+        }
+    ]
+}
