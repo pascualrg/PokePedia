@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which of these Pokémon is a Water-Electric type?",
+            "options": [
+                "Mantine",
+                "Stunfisk",
+                "Lanturn",
+                "Elekid"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What Pokémon does this description belong to? 'Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.'",
+            "options": [
+                "Slugma",
+                "Magby",
+                "Volcanion",
+                "Carkol"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What is the name of the Flying-type gym leader in the Hoenn region?",
+            "options": [
+                "Alana",
+                "Marcial",
+                "Pegaso",
+                "Fredo"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What type is Ampharos when he mega evolves?",
+            "options": [
+                "Electric - Flying",
+                "Electric",
+                "Electric - Dragon",
+                "Electric - Dark"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "How many pokémon were added in the 3rd generation?",
+            "options": [
+                "79",
+                "124",
+                "62",
+                "156"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Cuál de estos Pokémon es de tipo Agua - Eléctrico?",
+            "options": [
+                "Mantine",
+                "Stunfisk",
+                "Lanturn",
+                "Elekid"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Es pequeño, pero su cuerpo puede llegar a alcanzar 600ºC. Cuando inspira y espira, expulsa llamas por la nariz y por la boca.'",
+            "options": [
+                "Slugma",
+                "Magby",
+                "Volcanion",
+                "Carkol"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cómo se llama el líder de gimnasio de tipo Volador de la región de Hoenn?",
+            "options": [
+                "Alana",
+                "Marcial",
+                "Pegaso",
+                "Fredo"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿De qué tipo es Ampharos cuando megaevoluciona?",
+            "options": [
+                "Eléctrico - Volador",
+                "Eléctrico",
+                "Eléctrico - Dragón",
+                "Eléctrico - Siniestro"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Cuántos pokémon se añadieron en la 3º generación?",
+            "options": [
+                "79",
+                "124",
+                "62",
+                "156"
+            ],
+            "correcta": "3"
+        }
+    ]
+}
