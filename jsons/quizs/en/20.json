@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "What type is the Galar version of Zapdos?",
+            "options": [
+                "Electric - Water",
+                "Fighting - Flying ",
+                "Fairy - Flying",
+                "Dark - Flying"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Region in which the second generation was released.",
+            "options": [
+                "Teselia",
+                "Kalos",
+                "Johto",
+                "Galar"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What type is Xerneas?",
+            "options": [
+                "Dark",
+                "Psychic",
+                "Electric",
+                "Fairy"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What ability does Slaking have that forces him to rest for 1 turn every time he attacks?",
+            "options": [
+                "Reckless",
+                "Truant",
+                "Guts",
+                "Cloud Nine"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What are the starter Pokémon in the 4th generation?",
+            "options": [
+                "Rowlet, Litten y Popplio",
+                "Chespin, Fennekin y Froakie",
+                "Charmander, Charmeleon y Charizard",
+                "Turtwig, Chimchar y Piplup"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

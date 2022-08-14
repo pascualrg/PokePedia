@@ -1,54 +1,53 @@
 {
-  "quizlist": [
-    {
-      "question": "How many Pokémon are there in the Kanto region?",
-      "options": [
-        "150",
-        "200",
-        "151",
-        "99"
-      ],
-      "correcta": "2"
-    },
-    {
-      "question": "What types is the Electric type strong against?",
-      "options": [
-        "Dark - Psychic",
-        "Grass",
-        "Steel",
-        "Water - Fly"
-      ],
-      "correcta": "3"
-    },
-    {
-      "question": "What is the name of Eevee's fairy-like evolution?",
-      "options": [
-        "Glaceon",
-        "Leafeon",
-        "Sylveon",
-        "Gliscor"
-      ],
-      "correcta": "2"
-    },
-    {
-      "question": "What type is Sceptile when it mega evolves?",
-      "options": [
-        "Grass - Steel",
-        "Grass",
-        "Water",
-        "Grass - Dragon"
-      ],
-      "correcta": "3"
-    },
-    {
-      "question": "In which generation was the megavolution introduced?",
-      "options": [
-        "VI",
-        "IV",
-        "II",
-        "VIII"
-      ],
-      "correcta": "0"
-    }
-  ]
+    "quizlist": [{
+            "question": "How many Pokémon are there in the Kanto region?",
+            "options": [
+                "150",
+                "200",
+                "151",
+                "99"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What types is the Electric type strong against?",
+            "options": [
+                "Dark - Psychic",
+                "Grass",
+                "Steel",
+                "Water - Fly"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What is the name of Eevee's fairy-like evolution?",
+            "options": [
+                "Glaceon",
+                "Leafeon",
+                "Sylveon",
+                "Gliscor"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What type is Sceptile when it mega evolves?",
+            "options": [
+                "Grass - Steel",
+                "Grass",
+                "Water",
+                "Grass - Dragon"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Generation in which the Megavolution was introduced.",
+            "options": [
+                "VI",
+                "IV",
+                "II",
+                "VIII"
+            ],
+            "correcta": "0"
+        }
+    ]
 }

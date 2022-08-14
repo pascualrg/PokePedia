@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Nombre del profesor en la primera generación.",
+            "options": [
+                "Turo",
+                "Oak",
+                "Elm",
+                "Magnolia"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuál de estos pokémon es más alto?",
+            "options": [
+                "Coalossal",
+                "Garbodor",
+                "Articuno",
+                "Snorlax"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿De qué tipo es Pinsir cuando megaevoluciona?",
+            "options": [
+                "Bicho - Lucha",
+                "Acero - Siniestro",
+                "Hada",
+                "Bicho - Volador"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "En Pokémon Amarillo, ¿a qué Pokémon despierta el objeto clave Poke Flauta?",
+            "options": [
+                "Dratini",
+                "Zapdos",
+                "Pikachu",
+                "Snorlax"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Generación en la que se introdujo el Fenómeno Gigamax.",
+            "options": [
+                "VII",
+                "V",
+                "IV",
+                "VIII"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

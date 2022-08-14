@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Name of the professor in the first generation.",
+            "options": [
+                "Turo",
+                "Oak",
+                "Elm",
+                "Magnolia"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which of these pokemon is taller?",
+            "options": [
+                "Coalossal",
+                "Garbodor",
+                "Articuno",
+                "Snorlax"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What type is Pinsir when it mega evolves?",
+            "options": [
+                "Bug - Fighting",
+                "Steel - Dark",
+                "Fairy",
+                "Bug - Flying"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "In Pokémon Yellow, which Pokémon does the Poké Flute key item awaken?",
+            "options": [
+                "Dratini",
+                "Zapdos",
+                "Pikachu",
+                "Snorlax"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Generation in which the Gigamax was introduced.",
+            "options": [
+                "VII",
+                "V",
+                "IV",
+                "VIII"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿De qué tipo es la versión Galar de Zapdos?",
+            "options": [
+                "Eléctrico - Agua",
+                "Lucha - Volador",
+                "Hada - Volador",
+                "Siniestro - Volador"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Región en la que se estrenó la segunda generación.",
+            "options": [
+                "Teselia",
+                "Kalos",
+                "Johto",
+                "Galar"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿De qué tipo es el pokémon Xerneas?",
+            "options": [
+                "Siniestro",
+                "Psíquico",
+                "Electrico",
+                "Hada"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué habilidad tiene Slaking que le obliga a descansar 1 turno cada vez que ataca?",
+            "options": [
+                "Audaz",
+                "Ausente",
+                "Agallas",
+                "Aclimatación"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cuáles son los Pokémon iniciales en la 4º generación?",
+            "options": [
+                "Rowlet, Litten y Popplio",
+                "Chespin, Fennekin y Froakie",
+                "Charmander, Charmeleon y Charizard",
+                "Turtwig, Chimchar y Piplup"
+            ],
+            "correcta": "3"
+        }
+    ]
+}
