@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Cuál de estos pokémon es más pesado?",
+            "options": [
+                "Charmander",
+                "Bulbasaur",
+                "Squirtle",
+                "Pikachu"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿A qué Pokémon pertenece esta descripción? 'Trabaja sin descanso en minas en desuso localizando y extrayendo carbón.'",
+            "options": [
+                "Camerupt",
+                "Manaphy",
+                "Torkoal",
+                "Incineroar"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿De qué tipo es la versión Hisui de Samurott?",
+            "options": [
+                "Veneno - Hielo",
+                "Planta - Agua",
+                "Agua - Hada",
+                "Agua - Siniestro"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Cómo se llama el líder de gimnasio de tipo Fuego de la región de Kanto?",
+            "options": [
+                "Blaine",
+                "Candela",
+                "Pegaso",
+                "Fredo"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Generación en la que se introdujo el concepto 'Forma regional'.",
+            "options": [
+                "V",
+                "VII",
+                "IV",
+                "VIII"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

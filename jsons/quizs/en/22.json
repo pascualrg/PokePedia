@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "What type is the Galar version of Weezing?",
+            "options": [
+                "Ghost - Poison",
+                "Fairy",
+                "Dark - Flying",
+                "Poison - Fairy"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which of these pokemon is taller?",
+            "options": [
+                "Exeggutor",
+                "Arbok",
+                "Vileplume",
+                "Ninetales"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What types is the Poison type strong against?",
+            "options": [
+                "Grass - Fairy",
+                "Dark - Psychic",
+                "Steel",
+                "Ground - Psychic"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What are the starter Pokémon in the 6th generation?",
+            "options": [
+                "Charmander, Squirtle y Bulbasaur",
+                "Chikorita, Tepig y Totodile",
+                "Chespin, Fennekin y Froakie",
+                "Grookey, Scorbunny y Sobble"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Name of the protagonist of the Pokémon anime.",
+            "options": [
+                "Ash Catchup ",
+                "Ash Ketchup",
+                "Ash Ketchum",
+                "Ash Catsup"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which of these pokemon is heavier?",
+            "options": [
+                "Charmander",
+                "Bulbasaur",
+                "Squirtle",
+                "Pikachu"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What Pokémon does this description belong to? 'You can tell how it is feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health.'",
+            "options": [
+                "Camerupt",
+                "Manaphy",
+                "Torkoal",
+                "Incineroar"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What type is the Hisui version of Samurott?",
+            "options": [
+                "Poison - Ice",
+                "Grass - Water",
+                "Water - Fairy",
+                "Water - Dark"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What is the name of the Fire-type gym leader from the Kanto region?",
+            "options": [
+                "Blaine",
+                "Candela",
+                "Pegaso",
+                "Fredo"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Generation in which the concept 'Regional Form' was introduced.",
+            "options": [
+                "V",
+                "VII",
+                "IV",
+                "VIII"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

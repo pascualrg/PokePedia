@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which one has better Attack?",
+            "options": [
+                "Metagross",
+                "Gyarados",
+                "null",
+                "null"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Purchase price of a Superball.",
+            "options": [
+                "200",
+                "700",
+                "500",
+                "600"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Trevenant capture rate.",
+            "options": [
+                "45",
+                "3",
+                "15",
+                "60"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which of these Pokémon is an Electric - Ice type?",
+            "options": [
+                "Arctovish",
+                "Arctozolt",
+                "Articuno",
+                "Froslass"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Name of the professor in the third generation.",
+            "options": [
+                "Turo",
+                "Abedul",
+                "Elm",
+                "Brock"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

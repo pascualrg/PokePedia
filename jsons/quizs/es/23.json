@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Cuál tiene mejor Ataque?",
+            "options": [
+                "Metagross",
+                "Gyarados",
+                "null",
+                "null"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Precio de compra de una Superball.",
+            "options": [
+                "200",
+                "700",
+                "500",
+                "600"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Ratio de captura de Trevenant.",
+            "options": [
+                "45",
+                "3",
+                "15",
+                "60"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Cuál de estos Pokémon es de tipo Eléctrico - Hielo?",
+            "options": [
+                "Arctovish",
+                "Arctozolt",
+                "Articuno",
+                "Froslass"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Nombre del profesor en la tercera generación.",
+            "options": [
+                "Turo",
+                "Abedul",
+                "Elm",
+                "Brock"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

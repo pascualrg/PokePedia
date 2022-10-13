@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿De qué tipo es la versión Galar de Weezing?",
+            "options": [
+                "Fantasma - Veneno",
+                "Hada",
+                "Siniestro - Volador",
+                "Veneno - Hada"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Cuál de estos pokémon es más alto?",
+            "options": [
+                "Exeggutor",
+                "Arbok",
+                "Vileplume",
+                "Ninetales"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Contra qué tipos es fuerte el tipo Veneno?",
+            "options": [
+                "Planta - Hada",
+                "Siniestro - Psíquico",
+                "Acero",
+                "Tierra - Psíquico"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Cuáles son los Pokémon iniciales en la 6º generación?",
+            "options": [
+                "Charmander, Squirtle y Bulbasaur",
+                "Chikorita, Tepig y Totodile",
+                "Chespin, Fennekin y Froakie",
+                "Grookey, Scorbunny y Sobble"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Nombre del protagonista del anime de Pokémon.",
+            "options": [
+                "Ash Catchup ",
+                "Ash Ketchup",
+                "Ash Ketchum",
+                "Ash Catsup"
+            ],
+            "correcta": "1"
+        }
+    ]
+}
