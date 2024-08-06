@@ -12,10 +12,10 @@
         {
             "question": "¿De qué tipo es la forma Galar de Darmanitan cuando está en modo Daruma?",
             "options": [
-                "Ice - Fire",
-                "Ice - Ghost",
-                "Fire - Ghost",
-                "Ice - Psychic"
+                "Hielo - Fuego",
+                "Hielo - Fantasma",
+                "Fuego - Fantasma",
+                "Hielo - Psíquico"
             ],
             "correcta": "0"
         },

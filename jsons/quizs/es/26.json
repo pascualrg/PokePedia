@@ -12,10 +12,10 @@
         {
             "question": "¿De qué tipo es el movimiento 'Ascenso draco'?",
             "options": [
-                "Dragon",
-                "Flying",
-                "Psychic",
-                "Fighting"
+                "Dragón",
+                "Volador",
+                "Psíquico",
+                "Lucha"
             ],
             "correcta": "1"
         },

@@ -12,10 +12,10 @@
         {
             "question": "¿Cómo se llama el movimiento de tipo eléctrico que puede paralizar al oponente?",
             "options": [
-                "Thunderbolt",
-                "Thunder Wave",
-                "Spark",
-                "Electro Ball"
+                "Rayo",
+                "Onda trueno",
+                "Chispa",
+                "Bola voltio"
             ],
             "correcta": "1"
         },
