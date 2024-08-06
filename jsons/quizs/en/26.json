@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Mushroom Pokémon'?",
+            "options": [
+                "Paras",
+                "Amoonguss",
+                "Breloom",
+                "Shroomish"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What type is the move 'Dragon Ascent'?",
+            "options": [
+                "Dragon",
+                "Flying",
+                "Psychic",
+                "Fighting"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which Pokémon has the highest base stat total among the following?",
+            "options": [
+                "Dragonite",
+                "Garchomp",
+                "Salamence",
+                "Tyranitar"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "In which generation were the Fairy-type Pokémon introduced?",
+            "options": [
+                "V",
+                "VI",
+                "VII",
+                "VIII"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which item can be used to evolve a Poliwhirl into a Politoed?",
+            "options": [
+                "Water Stone",
+                "King's Rock",
+                "Sun Stone",
+                "Dawn Stone"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

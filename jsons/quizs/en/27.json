@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon evolves using a Moon Stone?",
+            "options": [
+                "Jigglypuff",
+                "Pikachu",
+                "Clefairy",
+                "Nidorina"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What is the name of the electric-type move that can paralyze the opponent?",
+            "options": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Spark",
+                "Electro Ball"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which Pokémon is known as the 'Temporal Pokémon'?",
+            "options": [
+                "Palkia",
+                "Dialga",
+                "Giratina",
+                "Arceus"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Intimidate'?",
+            "options": [
+                "Gyarados",
+                "Luxray",
+                "Arcanine",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon is known for being able to transform into other Pokémon?",
+            "options": [
+                "Zoroark",
+                "Ditto",
+                "Mimikyu",
+                "Smeargle"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

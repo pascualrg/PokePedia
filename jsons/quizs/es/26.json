@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon se conoce como el 'Pokémon Hongo'?",
+            "options": [
+                "Paras",
+                "Amoonguss",
+                "Breloom",
+                "Shroomish"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿De qué tipo es el movimiento 'Ascenso draco'?",
+            "options": [
+                "Dragon",
+                "Flying",
+                "Psychic",
+                "Fighting"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Qué Pokémon tiene el total de estadísticas base más alto entre los siguientes?",
+            "options": [
+                "Dragonite",
+                "Garchomp",
+                "Salamence",
+                "Tyranitar"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿En qué generación se introdujeron los Pokémon tipo Hada?",
+            "options": [
+                "V",
+                "VI",
+                "VII",
+                "VIII"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Qué elemento se puede utilizar para convertir un Poliwhirl en un Politoed?",
+            "options": [
+                "Piedra Agua",
+                "Roca del rey",
+                "Piedra solar",
+                "Piedra alba"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

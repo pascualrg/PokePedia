@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon evoluciona usando una Piedra Lunar?",
+            "options": [
+                "Jigglypuff",
+                "Pikachu",
+                "Clefairy",
+                "Nidorina"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Cómo se llama el movimiento de tipo eléctrico que puede paralizar al oponente?",
+            "options": [
+                "Thunderbolt",
+                "Thunder Wave",
+                "Spark",
+                "Electro Ball"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Qué Pokémon se conoce como el 'Pokémon temporal'?",
+            "options": [
+                "Palkia",
+                "Dialga",
+                "Giratina",
+                "Arceus"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Qué Pokémon tiene la habilidad 'Intimidación'?",
+            "options": [
+                "Gyarados",
+                "Luxray",
+                "Arcanine",
+                "Todas son correctas"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué Pokémon es conocido por poder transformarse en otros Pokémon?",
+            "options": [
+                "Zoroark",
+                "Ditto",
+                "Mimikyu",
+                "Smeargle"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

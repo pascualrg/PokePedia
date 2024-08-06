@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon evoluciona a Sylveon cuando se sube de nivel con un nivel alto de amistad y un movimiento tipo Hada?",
+            "options": [
+                "Eevee",
+                "Vaporeon",
+                "Leafeon",
+                "Glaceon"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿De qué tipo es la forma Galar de Darmanitan cuando está en modo Daruma?",
+            "options": [
+                "Ice - Fire",
+                "Ice - Ghost",
+                "Fire - Ghost",
+                "Ice - Psychic"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Cuál de estos Pokémon se conoce como 'Pokémon Aura'?",
+            "options": [
+                "Zoroark",
+                "Lucario",
+                "Gardevoir",
+                "Alakazam"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "¿Cómo se llama el dispositivo que se utiliza para almacenar Poké Balls en la serie Pokémon?",
+            "options": [
+                "PokéDex",
+                "PokéNav",
+                "PokéBank",
+                "PokéBall Plus"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Qué Pokémon tiene la habilidad 'Superguarda'?",
+            "options": [
+                "Shedinja",
+                "Blissey",
+                "Sableye",
+                "Spiritomb"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

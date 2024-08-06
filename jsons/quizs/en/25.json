@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon evolves into Sylveon when leveled up with high friendship and a Fairy-type move?",
+            "options": [
+                "Eevee",
+                "Vaporeon",
+                "Leafeon",
+                "Glaceon"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What type is the Galarian form of Darmanitan when in Zen Mode?",
+            "options": [
+                "Ice - Fire",
+                "Ice - Ghost",
+                "Fire - Ghost",
+                "Ice - Psychic"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which of these Pokémon is known as the 'Aura Pokémon'?",
+            "options": [
+                "Zoroark",
+                "Lucario",
+                "Gardevoir",
+                "Alakazam"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "What is the name of the device used to store Poké Balls in the Pokémon series?",
+            "options": [
+                "PokéDex",
+                "PokéNav",
+                "PokéBank",
+                "PokéBall Plus"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Wonder Guard'?",
+            "options": [
+                "Shedinja",
+                "Blissey",
+                "Sableye",
+                "Spiritomb"
+            ],
+            "correcta": "0"
+        }
+    ]
+}
