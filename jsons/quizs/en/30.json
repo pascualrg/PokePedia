@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Land Shark Pokémon'?",
+            "options": [
+                "Gabite",
+                "Gible",
+                "Garchomp",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon is known for having the move 'Dragon Dance'?",
+            "options": [
+                "Salamence",
+                "Dragonite",
+                "Gyarados",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Overgrow'?",
+            "options": [
+                "Sceptile",
+                "Torterra",
+                "Serperior",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which item is required to evolve Rhydon into Rhyperior?",
+            "options": [
+                "Protector",
+                "King's Rock",
+                "Metal Coat",
+                "Upgrade"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon is known for using the move 'Spore'?",
+            "options": [
+                "Breloom",
+                "Parasect",
+                "Amoonguss",
+                "All of the above"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

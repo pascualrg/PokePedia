@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Iron Armor Pokémon'?",
+            "options": [
+                "Aggron",
+                "Metagross",
+                "Skarmory",
+                "Steelix"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Flame Body'?",
+            "options": [
+                "Magmar",
+                "Heatran",
+                "Volcarona",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon evolves into Crobat?",
+            "options": [
+                "Golbat",
+                "Zubat",
+                "Noibat",
+                "Woobat"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What type is the move 'Thunder'?",
+            "options": [
+                "Electric",
+                "Flying",
+                "Normal",
+                "Psychic"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which item is needed to evolve Sliggoo into Goodra?",
+            "options": [
+                "Shiny Stone",
+                "Dawn Stone",
+                "Rainy Rock",
+                "None of the above"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

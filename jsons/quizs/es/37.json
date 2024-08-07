@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon se conoce como el 'Pokémon Gran Espada'?",
+            "options": [
+                "Kingambit",
+                "Deino",
+                "Sirfetchd",
+                "Honedge"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon evoluciona usando una Piedra Trueno?",
+            "options": [
+                "Pikachu",
+                "Eevee",
+                "Raichu",
+                "Tanto 1 como 2"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué Pokémon tiene la habilidad 'Sincronía'?",
+            "options": [
+                "Umbreon",
+                "Espeon",
+                "Gardevoir",
+                "Todas son correctas"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿De qué tipo es el movimiento 'Puño hielo'?",
+            "options": [
+                "Hielo",
+                "Agua",
+                "Normal",
+                "Lucha"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon es conocido por su habilidad 'Agallas'?",
+            "options": [
+                "Heracross",
+                "Ursaring",
+                "Swellow",
+                "Todas son correctas"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

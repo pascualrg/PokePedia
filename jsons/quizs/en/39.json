@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is classified as the 'Lava Dome Pokémon'?",
+            "options": [
+                "Camerupt",
+                "Magcargo",
+                "Torkoal",
+                "Numel"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which Pokémon evolves using a Fire Stone?",
+            "options": [
+                "Growlithe",
+                "Eevee",
+                "Vulpix",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Insomnia'?",
+            "options": [
+                "Hypno",
+                "Noctowl",
+                "Honchkrow",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon evolves into Scizor?",
+            "options": [
+                "Scyther",
+                "Pikachu",
+                "Shelmet",
+                "Karrablast"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Levitate'?",
+            "options": [
+                "Rotom",
+                "Flygon",
+                "Eelektross",
+                "All of the above"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

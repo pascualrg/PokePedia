@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon se conoce como el 'Pokémon Púas'?",
+            "options": [
+                "Ferrothorn",
+                "Cacturne",
+                "Qwilfish",
+                "Forretress"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué Pokémon tiene la habilidad 'Absorbe agua'?",
+            "options": [
+                "Vaporeon",
+                "Quagsire",
+                "Lanturn",
+                "Todas son correctas"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué Pokémon evoluciona a Flygon?",
+            "options": [
+                "Gible",
+                "Gabite",
+                "Vibrava",
+                "Trapinch"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿De qué tipo es el movimiento 'Ala aural'?",
+            "options": [
+                "Psíquico",
+                "Fantasma",
+                "Hada",
+                "Volador"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué elemento se necesita para convertir a Machoke en Machamp?",
+            "options": [
+                "Intercambio",
+                "Cable link",
+                "Mejora",
+                "Ninguna correcta"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

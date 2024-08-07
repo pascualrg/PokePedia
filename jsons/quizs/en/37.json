@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Big Blade Pokémon'?",
+            "options": [
+                "Kingambit",
+                "Deino",
+                "Sirfetchd",
+                "Honedge"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon evolves using a Thunder Stone?",
+            "options": [
+                "Pikachu",
+                "Eevee",
+                "Raichu",
+                "Both 1 and 2"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Synchronize'?",
+            "options": [
+                "Umbreon",
+                "Espeon",
+                "Gardevoir",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What type is the move 'Ice Punch'?",
+            "options": [
+                "Ice",
+                "Water",
+                "Normal",
+                "Fighting"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon is known for its 'Guts' ability?",
+            "options": [
+                "Heracross",
+                "Ursaring",
+                "Swellow",
+                "All of the above"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

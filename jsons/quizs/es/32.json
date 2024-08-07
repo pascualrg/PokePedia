@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon está clasificado como el 'Pokémon Taladro'?",
+            "options": [
+                "Jolteon",
+                "Pikachu",
+                "Nidoqueen",
+                "Raichu"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿Qué Pokémon evoluciona a Mamoswine?",
+            "options": [
+                "Swablu",
+                "Swinub",
+                "Piloswine",
+                "Phanpy"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "¿De qué tipo es la mudanza 'Terremoto'?",
+            "options": [
+                "Tierra",
+                "Roca",
+                "Lucha",
+                "Normal"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué elemento se puede utilizar para convertir a Kirlia en Gallade?",
+            "options": [
+                "Piedra alba",
+                "Piedra día",
+                "Piedra solar",
+                "Piedra lunar"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon tiene la habilidad 'Trace'?",
+            "options": [
+                "Porygon",
+                "Kirlia",
+                "Alakazam",
+                "Todas son correctas"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

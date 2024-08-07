@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon se conoce como el 'Pokémon Dragón'?",
+            "options": [
+                "Dragonite",
+                "Salamence",
+                "Rayquaza",
+                "Dratini"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon tiene la habilidad 'Muro mágico'?",
+            "options": [
+                "Clefable",
+                "Alakazam",
+                "Sigilyph",
+                "Todas las anteriores"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué Pokémon es del tipo Planta-Veneno?",
+            "options": [
+                "Venusaur",
+                "Roselia",
+                "Bellsprout",
+                "Todas las anteriores"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué Pokémon puede aprender el movimiento 'Hidrobomba'?",
+            "options": [
+                "Gyarados",
+                "Blastoise",
+                "Milotic",
+                "Todas las anteriores"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿Qué Pokémon evoluciona cuando se sube de nivel por la noche con un nivel alto de amistad?",
+            "options": [
+                "Espeon",
+                "Umbreon",
+                "Sylveon",
+                "Glaceon"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

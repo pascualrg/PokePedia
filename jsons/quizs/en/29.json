@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Dragon Pokémon'?",
+            "options": [
+                "Dragonite",
+                "Salamence",
+                "Rayquaza",
+                "Dratini"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Magic Guard'?",
+            "options": [
+                "Clefable",
+                "Alakazam",
+                "Sigilyph",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon is a Grass-Poison type?",
+            "options": [
+                "Venusaur",
+                "Roselia",
+                "Bellsprout",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon can learn the move 'Hydro Pump'?",
+            "options": [
+                "Gyarados",
+                "Blastoise",
+                "Milotic",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon evolves when leveled up at night with high friendship?",
+            "options": [
+                "Espeon",
+                "Umbreon",
+                "Sylveon",
+                "Glaceon"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

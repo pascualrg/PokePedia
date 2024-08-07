@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is classified as the 'Stag Beetle Pokémon'?",
+            "options": [
+                "Pinsir",
+                "Heracross",
+                "Scizor",
+                "Beedrill"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon evolves into Steelix?",
+            "options": [
+                "Onix",
+                "Aron",
+                "Lairon",
+                "Beldum"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "What type is the move 'Shadow Ball'?",
+            "options": [
+                "Ghost",
+                "Dark",
+                "Psychic",
+                "Poison"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which item can be used to evolve a Gloom into a Bellossom?",
+            "options": [
+                "Sun Stone",
+                "Moon Stone",
+                "Leaf Stone",
+                "Shiny Stone"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Sheer Force'?",
+            "options": [
+                "Darmanitan",
+                "Nidoking",
+                "Conkeldurr",
+                "All of the above"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

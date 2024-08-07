@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Spikes Pokémon'?",
+            "options": [
+                "Ferrothorn",
+                "Cacturne",
+                "Qwilfish",
+                "Forretress"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Water Absorb'?",
+            "options": [
+                "Vaporeon",
+                "Quagsire",
+                "Lanturn",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon evolves into Flygon?",
+            "options": [
+                "Gible",
+                "Gabite",
+                "Vibrava",
+                "Trapinch"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What type is the move 'Esper Wing'?",
+            "options": [
+                "Psychic",
+                "Ghost",
+                "Fairy",
+                "Flying"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which item is needed to evolve Machoke into Machamp?",
+            "options": [
+                "Trade",
+                "Link Cable",
+                "Upgrade",
+                "None of the above"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

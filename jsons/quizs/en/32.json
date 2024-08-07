@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is classified as the 'Drill Pokémon'?",
+            "options": [
+                "Jolteon",
+                "Pikachu",
+                "Nidoqueen",
+                "Raichu"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which Pokémon evolves into Mamoswine?",
+            "options": [
+                "Swablu",
+                "Swinub",
+                "Piloswine",
+                "Phanpy"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "What type is the move 'Earthquake'?",
+            "options": [
+                "Ground",
+                "Rock",
+                "Fighting",
+                "Normal"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which item can be used to evolve Kirlia into Gallade?",
+            "options": [
+                "Dawn Stone",
+                "Shiny Stone",
+                "Sun Stone",
+                "Moon Stone"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Trace'?",
+            "options": [
+                "Porygon",
+                "Kirlia",
+                "Alakazam",
+                "All of the above"
+            ],
+            "correcta": "1"
+        }
+    ]
+}

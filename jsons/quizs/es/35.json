@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon está clasificado como el 'Pokémon Escarabajo Ciervo'?",
+            "options": [
+                "Pinsir",
+                "Heracross",
+                "Scizor",
+                "Beedrill"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon evoluciona a Steelix?",
+            "options": [
+                "Onix",
+                "Aron",
+                "Lairon",
+                "Beldum"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿De qué tipo es el movimiento 'Bola sombra'?",
+            "options": [
+                "Fantasma",
+                "Siniestro",
+                "Psíquico",
+                "Veneno"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué elemento se puede utilizar para convertir un Gloom en un Bellossom?",
+            "options": [
+                "Piedra solar",
+                "Piedra lunar",
+                "Piedra hoja",
+                "Piedra día"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon tiene la habilidad 'Potencia bruta'?",
+            "options": [
+                "Darmanitan",
+                "Nidoking",
+                "Conkeldurr",
+                "Todas son correctas"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "¿Qué Pokémon se conoce como el 'Pokémon Místico'?",
+            "options": [
+                "Mew",
+                "Mewtwo",
+                "Celebi",
+                "Jirachi"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon puede aprender el movimiento 'Rayo Hielo'?",
+            "options": [
+                "Lapras",
+                "Vaporeon",
+                "Articuno",
+                "Todas son correctas"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "¿De qué tipo es el movimiento 'Lanzallamas'?",
+            "options": [
+                "Fuego",
+                "Dragón",
+                "Normal",
+                "Psíquico"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué elemento se puede utilizar para convertir a Eevee en Vaporeon?",
+            "options": [
+                "Piedra agua",
+                "Piedra hoja",
+                "Piedra hielo",
+                "Piedra fuego"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "¿Qué Pokémon es conocido por usar el movimiento 'Pulso Umbrío'?",
+            "options": [
+                "Houndoom",
+                "Darkrai",
+                "Greninja",
+                "Todas son correctas"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Eon Pokémon'?",
+            "options": [
+                "Latios",
+                "Latias",
+                "Both of the above",
+                "None of the above"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Lightning Rod'?",
+            "options": [
+                "Pikachu",
+                "Rhydon",
+                "Manectric",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which Pokémon evolves using a Water Stone?",
+            "options": [
+                "Vaporeon",
+                "Starmie",
+                "Cloyster",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What is the name of the Grass-type move that can recover HP?",
+            "options": [
+                "Giga Drain",
+                "Mega Drain",
+                "Leech Seed",
+                "Synthesis"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon is known for its 'Thick Fat' ability?",
+            "options": [
+                "Snorlax",
+                "Walrein",
+                "Mamoswine",
+                "All of the above"
+            ],
+            "correcta": "3"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is classified as the 'Thunder Pokémon'?",
+            "options": [
+                "Zapdos",
+                "Electabuzz",
+                "Jolteon",
+                "Pikachu"
+            ],
+            "correcta": "2"
+        },
+        {
+            "question": "Which item is needed to evolve Sneasel into Weavile?",
+            "options": [
+                "Razor Fang",
+                "Razor Claw",
+                "Dusk Stone",
+                "Dawn Stone"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Levitate'?",
+            "options": [
+                "Gengar",
+                "Weezing",
+                "Flygon",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which of these Pokémon is a pure Ground type?",
+            "options": [
+                "Sandshrew",
+                "Onix",
+                "Groudon",
+                "Mudsdale"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "What is the signature move of the Pokémon Lucario?",
+            "options": [
+                "Aura Sphere",
+                "Close Combat",
+                "Flash Cannon",
+                "Extreme Speed"
+            ],
+            "correcta": "0"
+        }
+    ]
+}

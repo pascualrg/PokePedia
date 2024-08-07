@@ -1,0 +1,53 @@
+{
+    "quizlist": [{
+            "question": "Which Pokémon is known as the 'Sea Basin Pokémon'?",
+            "options": [
+                "Kyogre",
+                "Groudon",
+                "Lugia",
+                "Gyarados"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon has the highest base Attack stat?",
+            "options": [
+                "Slaking",
+                "Rampardos",
+                "Deoxys",
+                "Rayquaza"
+            ],
+            "correcta": "1"
+        },
+        {
+            "question": "Which Pokémon evolves when leveled up with high friendship during the day?",
+            "options": [
+                "Espeon",
+                "Umbreon",
+                "Sylveon",
+                "Leafeon"
+            ],
+            "correcta": "0"
+        },
+        {
+            "question": "Which Pokémon has the ability 'Swift Swim'?",
+            "options": [
+                "Ludicolo",
+                "Kingdra",
+                "Kabutops",
+                "All of the above"
+            ],
+            "correcta": "3"
+        },
+        {
+            "question": "Which item is needed to evolve Porygon2 into Porygon-Z?",
+            "options": [
+                "Upgrade",
+                "Dubious Disc",
+                "Protector",
+                "Electirizer"
+            ],
+            "correcta": "1"
+        }
+    ]
+}
