@@ -30,14 +30,14 @@
             "correcta": "3"
         },
         {
-            "question": "¿Cuál de estos Pokémon es de tipo Tierra puro?",
+            "question": "¿Cuál de estos Pokémon NO es de tipo Tierra puro?",
             "options": [
                 "Sandshrew",
                 "Onix",
                 "Groudon",
                 "Mudsdale"
             ],
-            "correcta": "3"
+            "correcta": "1"
         },
         {
             "question": "¿Cuál es el movimiento característico del Pokémon Lucario?",

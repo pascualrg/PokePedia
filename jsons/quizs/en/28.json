@@ -30,14 +30,14 @@
             "correcta": "3"
         },
         {
-            "question": "Which of these Pokémon is a pure Ground type?",
+            "question": "Which of these Pokémon is NOT a pure Ground type?",
             "options": [
                 "Sandshrew",
                 "Onix",
                 "Groudon",
                 "Mudsdale"
             ],
-            "correcta": "3"
+            "correcta": "1"
         },
         {
             "question": "What is the signature move of the Pokémon Lucario?",
