@@ -20,7 +20,7 @@
             "correcta": "2"
         },
         {
-            "question": "¿De qué tipo es la mudanza 'Terremoto'?",
+            "question": "¿De qué tipo es el movimiento 'Terremoto'?",
             "options": [
                 "Tierra",
                 "Roca",
@@ -40,9 +40,9 @@
             "correcta": "0"
         },
         {
-            "question": "¿Qué Pokémon tiene la habilidad 'Trace'?",
+            "question": "¿Qué Pokémon tiene la habilidad 'Calco'?",
             "options": [
-                "Porygon",
+                "Porygon-Z",
                 "Kirlia",
                 "Alakazam",
                 "Todas son correctas"

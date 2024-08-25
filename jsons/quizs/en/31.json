@@ -33,9 +33,9 @@
             "question": "What is the name of the Grass-type move that can recover HP?",
             "options": [
                 "Giga Drain",
-                "Mega Drain",
-                "Leech Seed",
-                "Synthesis"
+                "Grass Knot",
+                "Cotton Guard",
+                "Spore"
             ],
             "correcta": "0"
         },

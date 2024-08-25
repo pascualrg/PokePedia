@@ -2,10 +2,10 @@
     "quizlist": [{
             "question": "Which Pokémon evolves using a Moon Stone?",
             "options": [
-                "Jigglypuff",
+                "Amoonguss",
                 "Pikachu",
                 "Clefairy",
-                "Nidorina"
+                "Umbreon"
             ],
             "correcta": "2"
         },

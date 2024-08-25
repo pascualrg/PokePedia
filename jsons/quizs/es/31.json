@@ -4,8 +4,8 @@
             "options": [
                 "Latios",
                 "Latias",
-                "Todas son correctas",
-                "Ninguna correcta"
+                "Ambos de los anteriores",
+                "Ninguno de los anteriores"
             ],
             "correcta": "2"
         },
@@ -30,12 +30,12 @@
             "correcta": "3"
         },
         {
-            "question": "¿Cómo se llama el movimiento tipo Hierba que puede recuperar PS?",
+            "question": "¿Cómo se llama el movimiento tipo Planta que puede recuperar PS?",
             "options": [
                 "Gigadrenado",
-                "Megaagotar",
-                "Drenadoras",
-                "Síntesis"
+                "Hierba lazo",
+                "Rizo algodón",
+                "Espora"
             ],
             "correcta": "0"
         },

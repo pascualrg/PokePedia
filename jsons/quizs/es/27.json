@@ -2,10 +2,10 @@
     "quizlist": [{
             "question": "¿Qué Pokémon evoluciona usando una Piedra Lunar?",
             "options": [
-                "Jigglypuff",
+                "Amoonguss",
                 "Pikachu",
                 "Clefairy",
-                "Nidorina"
+                "Umbreon"
             ],
             "correcta": "2"
         },
